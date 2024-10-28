@@ -6,9 +6,9 @@
 
 ## Olá
 
-Eu sou Eduardo Mendonça, um desenvolvedor de software apaixonado.
+Eu sou Eduardo, um desenvolvedor de software apaixonado.
 
-* **Nome**: Eduardo Mendonça
+* **Nome**: Eduardo Mendonça Braga
 * **Idade**: 30
 * **Residindo em**: Interior de São Paulo - SP, Brasil
 * **Stack**: C# - .NET - .NET Core - ASP.NET - SQL - Azure
